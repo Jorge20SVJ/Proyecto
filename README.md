@@ -62,16 +62,7 @@ High spam precision: 100% precision means when the model identifies spam, it's a
 Spam recall at 79%: Detects 8 out of 10 phishing attempts, acceptable trade-off to avoid false positives
 Class imbalance consideration: Dataset contains approximately 6.5x more ham than spam messages, which is reflected in the tuned model behavior
 
-Project Structure
-whatsapp-phishing-detection-ml/
-├── README.md
-├── requirements.txt
-├── phishing_detector.py       (Main ML algorithm)
-├── data/
-│   └── SMSSpamCollection.txt  (Training dataset)
-└── models/
-├── modelo_phishing.pkl    (Trained model)
-└── tfidf_vectorizer.pkl   (Fitted vectorizer)
+
 Key Features
 
 Text Preprocessing: Tokenization and Spanish stopword removal

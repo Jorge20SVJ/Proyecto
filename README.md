@@ -1,4 +1,4 @@
-# Proyecto
+# nln
 Machine learning system for detecting phishing attempts in WhatsApp messages using Natural Language Processing techniques. This project was developed as part of my Computer Engineering thesis() at Instituto Politécnico Nacional (IPN).
 Note: This repository contains the ML algorithm component of a collaborative project. The complete system includes a mobile application interface developed by my teammate.
 
